@@ -2,7 +2,7 @@
 var friends = [
     {
         "name": "Ahmed",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo": "https://www.whatsappprofiledpimages.com/wp-content/uploads/2018/07/awesome-profile-pics-300x300.jpg",
         "scores": [
             5,
             1,
@@ -16,6 +16,59 @@ var friends = [
             1
         ]
     },
+
+    {
+        "name": "Kasey",
+        "photo": "https://www.whatsappprofiledpimages.com/wp-content/uploads/2018/07/awesome-profile-pics-300x300.jpg",
+        "scores": [
+            1,
+            4,
+            5,
+            5,
+            4,
+            2,
+            1,
+            3,
+            4,
+            1
+        ]
+    },
+
+    {
+        "name": "Michael",
+        "photo": "https://www.whatsappprofiledpimages.com/wp-content/uploads/2018/07/awesome-profile-pics-300x300.jpg",
+        "scores": [
+            3,
+            5,
+            4,
+            1,
+            1,
+            3,
+            2,
+            4,
+            5,
+            1
+        ]
+    },
+
+    {
+        "name": "Anthony",
+        "photo": "https://www.whatsappprofiledpimages.com/wp-content/uploads/2018/07/awesome-profile-pics-300x300.jpg",
+        "scores": [
+            3,
+            1,
+            1,
+            2,
+            2,
+            4,
+            5,
+            1,
+            5,
+            3
+        ]
+    },
+
+
 ];
 
 module.exports = friends;
