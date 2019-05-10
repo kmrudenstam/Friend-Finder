@@ -68,7 +68,22 @@ var friends = [
         ]
     },
 
-
+    {
+        "name": "Kasey",
+        "photo": "https://www.whatsappprofiledpimages.com/wp-content/uploads/2018/07/awesome-profile-pics-300x300.jpg",
+        "scores": [
+            1,
+            4,
+            1,
+            1,
+            4,
+            3,
+            4,
+            3,
+            2,
+            1
+        ]
+    },
 ];
 
 module.exports = friends;
