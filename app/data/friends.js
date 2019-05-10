@@ -18,7 +18,7 @@ var friends = [
     },
 
     {
-        "name": "Kasey",
+        "name": "Casey",
         "photo": "https://www.whatsappprofiledpimages.com/wp-content/uploads/2018/07/awesome-profile-pics-300x300.jpg",
         "scores": [
             1,
