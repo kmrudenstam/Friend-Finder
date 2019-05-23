@@ -5,7 +5,7 @@ A compatibility-based "FriendFinder" application -- basically a dating app. This
 **Technologies used:** CSS, Node.js, Javascript, JQuery, Node.js, Express
 
 
-### **Before you get started, make sure you have these node packages installed:**
+## **Before you get started, make sure you have these node packages installed:**
 1. **Express:** A fast and minimalist web framework for node.
 
      *Command Line: 'npm install express'*
